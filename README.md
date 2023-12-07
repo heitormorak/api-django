@@ -68,7 +68,7 @@ O profissional possui nome, nome social e cpf, para esse contexto.
 - http://localhost:8000/consultas/
 - http://localhost:8000/consultas/?profissional_id={id}
 
-2. Profissional: 
+2. Profissionais: 
 - http://localhost:8000/profissionais/
 
 ## Arquitetura
