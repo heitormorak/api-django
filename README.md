@@ -63,6 +63,14 @@ O profissional possui nome, nome social e cpf, para esse contexto.
 
 3. Acesse a aplicação em http://localhost:8000/
 
+## Rotas
+1. Consultas: 
+- http://localhost:8000/consultas/
+- http://localhost:8000/consultas/?profissional_id={id}
+
+2. Profissional: 
+- http://localhost:8000/profissionais/
+
 ## Arquitetura
 
 O projeto segue uma arquitetura baseada no padrão Model-View-Controller (MVC), com a adição do Django Rest Framework para a criação da APIs RESTful. Aqui estão algumas justificativas para as escolhas de arquitetura:
